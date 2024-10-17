@@ -6,6 +6,10 @@ CondaLauncher is a Python application that allows you to manage and launch appli
 
 ![CondaLauncher Processes Modal](https://github.com/ThisModernDay/CondaLauncher/blob/main/data/running.png?raw=true)
 
+## Platform Support
+
+- Currently, the application only supports Windows. Mac support is coming soon.
+
 ## Features
 
 - List and manage applications with their associated Conda environments
