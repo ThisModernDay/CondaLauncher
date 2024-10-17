@@ -44,11 +44,16 @@ CondaLauncher is a Python application that allows you to manage and launch appli
    pip install -r requirements.txt
    ```
 
+5. Rename the example configuration file:
+   ```
+   mv example_applications.yaml applications.yaml
+   ```
+
 ## Configuration
 
-1. The `applications.yaml` file in the project root directory contains the configuration for your applications.
-2. You can edit this file directly in the CondaLauncher application by clicking the "Manage Applications" button.
-3. Alternatively, you can edit the file manually. The format for each application is as follows:
+1. Open the `applications.yaml` file in the project root directory.
+2. Edit the file to add your applications and their corresponding Conda environments. You can do this directly in the CondaLauncher application by clicking the "Manage Applications" button, or manually edit the file.
+3. The format for each application is as follows:
    ```yaml
    applications:
      - name: "App Name"

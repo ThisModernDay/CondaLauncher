@@ -1,0 +1,15 @@
+applications:
+  - name: "Example App 1"
+    conda_env: "example_env1"
+    path: "C:/path/to/your/app1.py"
+    description: "This is an example application 1"
+
+  - name: "Example App 2"
+    conda_env: "example_env2"
+    path: "/home/user/apps/app2.py"
+    description: "This is an example application 2"
+
+  - name: "Example App 3"
+    conda_env: "example_env3"
+    path: "D:/projects/app3/main.py"
+    description: "This is an example application 3"
