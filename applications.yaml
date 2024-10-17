@@ -1,0 +1,10 @@
+applications:
+  - name: "ComfyUI"
+    conda_env: "comfyui"
+    path: "F:/ComfyUI/main.py"
+    description: "comfyui is a python application for running stable diffusion models using a node based system that uses nodes and other cool shit"
+
+  - name: "F5-TTS"
+    conda_env: "f5"
+    path: "F:/f5-tts/app.py"
+    description: "F5-TTS is a web application that allows users to clone voices and generate text-to-speech audio using advanced AI models."

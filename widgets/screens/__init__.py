@@ -1,0 +1,2 @@
+from .processes_modal import ProcessesModal
+from .manage_applications_modal import ManageApplicationsModal
