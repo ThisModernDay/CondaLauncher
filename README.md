@@ -14,7 +14,7 @@ CondaLauncher is a Python application that allows you to manage and launch appli
 - Manage application configurations through a YAML file
 - Edit the applications YAML file directly within the app
 
-![CondaLauncher Manage Applications](https://github.com/thismodernday/CondaLauncher/raw/main/images/manage_applications.png)
+![CondaLauncher Manage Applications](https://github.com/ThisModernDay/CondaLauncher/blob/main/data/manage.png?raw=true)
 
 ## Prerequisites
 
