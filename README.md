@@ -1,10 +1,10 @@
 # CondaLauncher
 
-![CondaLauncher Main Screen](https://github.com/thismodernday/CondaLauncher/raw/main/images/main_screen.png)
+![CondaLauncher Main Screen](https://github.com/ThisModernDay/CondaLauncher/blob/main/data/main.png?raw=true)
 
 CondaLauncher is a Python application that allows you to manage and launch applications in different Conda environments.
 
-![CondaLauncher Processes Modal](https://github.com/thismodernday/CondaLauncher/raw/main/images/processes_modal.png)
+![CondaLauncher Processes Modal](https://github.com/ThisModernDay/CondaLauncher/blob/main/data/running.png?raw=true)
 
 ## Features
 
